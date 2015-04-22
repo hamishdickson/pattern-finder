@@ -1,0 +1,1 @@
+https://xkcd.com/1171/ sums it up pretty well
