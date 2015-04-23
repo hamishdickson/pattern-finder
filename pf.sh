@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-grep -nro '".*"' . | grep [0-9]{7} | less
+grep -rn -E -o '"[A-Za-z0-9]{7}"' . | less
